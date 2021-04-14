@@ -47,10 +47,10 @@
              </ul>
          </nav>
          <header>
-             Favorite Team: Alabama Crimson Tide
+             Hobby: Hiking
          </header>
          <section>
-             Alabama Crimson Tide is the official football team of the University of Alabama, located in Tuscaloosa, Alabama.
+             I simply enjoy walking down paths in the great outdoors.
          </section>
          <footer>
              Copyright Area, Contact Us.
