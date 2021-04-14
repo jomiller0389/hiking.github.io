@@ -29,7 +29,7 @@
          section {
              width: 100%;
              height: 500px;
-             background-color: crimson;
+             background-color: darkgoldenrod;
              color: white;
          }
          footer {
